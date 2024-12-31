@@ -46,4 +46,4 @@ Proud member of the open source community, contributing to projects like [mentio
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/navnt00) or follow me here on GitHub to stay updated on my latest projects and contributions!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/navneet-yadav-dev/) or follow me here on GitHub to stay updated on my latest projects and contributions!
