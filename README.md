@@ -11,7 +11,7 @@ I actively contribute to various open source projects, always eager to learn and
 
 ## 💻 Tech Stack
 - **Languages:** JavaScript, Python, C++, SQL
-- **Frameworks:** React.js, Django
+- **Frameworks:** React.js, Django , Next.js
 - **Skills:** Data Structures and Algorithms, Web Development, Backend Development
 
 ---
